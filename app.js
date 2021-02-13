@@ -24,7 +24,7 @@ app.post('/users',  (req, res, next) => {
     .finally(next)
 })
 
-// TODO Will not sync database if model isn't defined in the same file
+// TODO Will not sync database if model isn't defined in the same file or will complain about app.sync not being a function
 // export const syncAndSeed = async () => {
 //   await app.sync({ force: true })
 //
