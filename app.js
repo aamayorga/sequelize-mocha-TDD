@@ -24,28 +24,4 @@ app.post('/users',  (req, res, next) => {
     .finally(next)
 })
 
-// TODO Will not sync database if model isn't defined in the same file or will complain about app.sync not being a function
-// export const syncAndSeed = async () => {
-//   await app.sync({ force: true })
-//
-//   const users = [
-//     { name: "Joe", email: 'mail@mail.com', role: "Someone" }
-//   ]
-//
-//   const [ joe ] = await Promise.all(users.map(user => User.create(user)))
-//
-//   return {
-//     users: {
-//       joe
-//     }
-//   }
-// }
-
 module.exports = app
-
-// TODO: Doesn't export syncAndSeed and app for some reason
-// module.exports = {
-// app,
-// syncAndSeed
-// }
-

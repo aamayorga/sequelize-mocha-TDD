@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5de3a3a0-21a4-4c03-b895-f08c934e314f" name="Default Changelist" comment="">
+    <list default="true" id="5de3a3a0-21a4-4c03-b895-f08c934e314f" name="Default Changelist" comment="Comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs.js" beforeDir="false" afterPath="$PROJECT_DIR$/specs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +55,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613166198551</updated>
-      <workItem from="1613166199752" duration="12704000" />
+      <workItem from="1613166199752" duration="13285000" />
+      <workItem from="1613419154979" duration="5066000" />
     </task>
+    <task id="LOCAL-00001" summary="Comment">
+      <created>1613183056181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613183056181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1026" y="526" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613167149685">
@@ -54,9 +99,17 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1015" y="429" key="Github.UntrackedFilesDialog/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1613182948204" />
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1613176991632">
+    <state x="880" y="457" key="Vcs.Push.Dialog.v2" timestamp="1613183058288">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1613176991632" />
+    <state x="880" y="457" key="Vcs.Push.Dialog.v2/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1613183058288" />
+    <state x="979" y="475" width="602" height="490" key="find.popup" timestamp="1613440244174">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="979" y="475" width="602" height="490" key="find.popup/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1613440244174" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1613439946385">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/267.1440.1680.1050/0.0.2560.1440/2560.360.1920.1080@0.0.2560.1440" timestamp="1613439946385" />
   </component>
 </project>
